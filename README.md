@@ -1,2 +1,2 @@
 # EspriZza
-l'esprit de pizza
+l'esprit de la pizza
